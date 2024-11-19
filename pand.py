@@ -36,6 +36,6 @@ s=pd.Series([10.5,20,30,40,50],index=['a','b','c','d','e'],name="Numbers")
 # for x in var.index:
 #       if var.loc[x,"Duration"]>45:
 #             var.loc[x,"Duration"]=45
-s1=pd.Series([10,20,30])
-s2=pd.Series([40,50,60])
-print(s1.add(s2))
+# s1=pd.Series([10,20,30])
+# s2=pd.Series([40,50,60])
+# print(s1.add(s2))
